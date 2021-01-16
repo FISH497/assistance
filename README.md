@@ -1,4 +1,4 @@
-# Assistance fo FISH 497
+# FISH 497 - Intro to Environmental Data Science
 
 ### This is a place to get assistance for FISH 497.
 
